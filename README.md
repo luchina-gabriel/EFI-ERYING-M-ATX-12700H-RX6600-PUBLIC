@@ -1,5 +1,7 @@
 # Perfect ITX Hackintosh - KIT ERYING M-ATX Intel Core i7 12700H + RX 6600 8Gb
 
+![Overview](https://github.com/luchina-gabriel/EFI-ERYING-M-ATX-12700H-RX6600-PUBLIC/assets/23700365/b3fb00c0-2461-4956-b815-17d99987a69b)
+
 # Basic Information
 
 **Latest working macOS**: macOS Ventura (13.4)
